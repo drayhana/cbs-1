@@ -1,2 +1,3 @@
 nama	: syifa fauziyah nurul islam
 npm	: 140810160026
+ttl	: bandung, 8 januari 1999
